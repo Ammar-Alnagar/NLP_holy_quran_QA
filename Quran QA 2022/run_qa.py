@@ -35,6 +35,7 @@ import transformers
 from trainer_qa import QuestionAnsweringTrainer
 from transformers import (
     AutoConfig,
+    GPT2ForQuestionAnswering,
     AutoModelForQuestionAnswering,
     AutoTokenizer,
     DataCollatorWithPadding,
