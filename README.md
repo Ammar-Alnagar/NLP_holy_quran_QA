@@ -11,3 +11,11 @@ we successfully achieved first place in both editions of the competition ðŸ¥‡ðŸ¥
 - [Competition Link for Quran QA 2022](https://sites.google.com/view/quran-qa-2022)
 
 
+models used ->
+ aubmind araelectra 
+ OG arabert 
+ MDBerta 
+ zeyad-araeectra-QRCD
+ CuTD->electra
+ fatemah-CGSQuad
+ 
