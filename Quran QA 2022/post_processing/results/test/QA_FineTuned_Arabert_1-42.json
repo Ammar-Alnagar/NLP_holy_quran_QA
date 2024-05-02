@@ -1,0 +1,16 @@
+{
+    "best_model": "Omar-youssef/QA_FineTuned_Arabert_1/checkpoint-1140",
+    "epoch": 65.0,
+    "eval_exact_match": 0.43119266055045874,
+    "eval_f1": 0.6323150257254191,
+    "eval_pRR": 0.6556182198069739,
+    "eval_samples": 109,
+    "seed": 42,
+    "total_flos": 9069610426306560.0,
+    "total_steps": 3900,
+    "train_loss": 0.13080400974322587,
+    "train_runtime": 2788.8878,
+    "train_samples": 712,
+    "train_samples_per_second": 16.594,
+    "train_steps_per_second": 1.398
+}
