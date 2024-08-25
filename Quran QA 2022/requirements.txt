@@ -17,4 +17,4 @@ snowballstemmer==2.0.0
 Arabic-Stopwords==0.3
 pytrec-eval==0.5
 accelerate
-faiss-gpu
+faiss-gpu 
