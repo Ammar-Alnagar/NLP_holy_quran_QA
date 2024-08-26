@@ -1,6 +1,8 @@
 Introduction
 NLP_holy_quran_QA is a project dedicated to applying natural language processing (NLP) techniques to create a question-answering system based on the Holy Quran. This project aims to provide an intelligent tool for retrieving and understanding information from Quranic text, allowing users to ask questions and receive relevant answers derived from the Quran. It leverages advanced NLP models and methods to facilitate deeper engagement and exploration of Quranic knowledge.
 
+
+
 Features
 Question-Answering System: Allows users to ask questions related to the Holy Quran and receive accurate, contextually relevant answers based on Quranic text.
 Text Understanding: Utilizes NLP techniques to understand and interpret Quranic verses, enabling precise extraction of information in response to user queries.
